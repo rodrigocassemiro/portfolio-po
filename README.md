@@ -26,7 +26,7 @@ This is a Product Owner portfolio rather than a software-code portfolio. It show
 
 ## Enterprise Projects & Account Management
 
-- [Brazilian Federal Government Technology Project — Quest Software involvement](case-studies/drafts/quest-government-account-management.md): **draft under verification**. Account Management perspective, technical preparation and transferable product capabilities. Exact product, project-specific credentials and outcomes remain to be confirmed.
+- [Brazilian Federal Government Technology Project — Quest Software Ecosystem](case-studies/quest-government-account-management.md): Account Management, enterprise solution alignment, technical preparation and transferable product capabilities. Anonymised professional experience narrative.
 
 ## Product Artifacts
 
