@@ -24,6 +24,10 @@ This is a Product Owner portfolio rather than a software-code portfolio. It show
 
 > The AI quality case is conceptual and anonymized. The real-estate materials are sanitized to exclude confidential business and customer information.
 
+## Enterprise Projects & Account Management
+
+- [Brazilian Federal Government Technology Project — Quest Software involvement](case-studies/drafts/quest-government-account-management.md): **draft under verification**. Account Management perspective, technical preparation and transferable product capabilities. Exact product, project-specific credentials and outcomes remain to be confirmed.
+
 ## Product Artifacts
 
 These artifacts show practical product thinking beyond feature lists:
